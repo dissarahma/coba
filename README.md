@@ -13,16 +13,15 @@ This is a repository Capstone Project Bangkit Academy 2024 Batch 1 with Team ID 
 
 ## Our Member
 
-|             Name                   |  Bangkit ID  |        Role        |            University              |                        Github                      |
-| :--------------------------------: | :----------: | :----------------: | :--------------------------------: | :----------------------------- ------------------: |
-|      Velman Noeli Harefa           | C012D4KY1040 |  Cloud Computing   |          Universitas Telkom        | [Github](https://github.com/velmanharefa)          |
-|         Benaya Obed Sinaga         | C012D4KY1058 |  Cloud Computing   |          Universitas Telkom        | [Github](https://github.com/BenayaObed)            |
-|          Salman Al Faridzi         | A452D4KY4558 | Mobile Development |  Universitas Muhammadiyah Jakarta  | [Github](https://github.com/salmanafl)             |
-|      Femmy Friscilla Susilo        | A243D4KX3588 | Mobile Development |   Universitas Kristen Maranatha    | [Github](https://github.com/2172030femmyfriscilla) |
-| Gracia Joanne Crissan Br Hutabarat | M011D4KX1774 |  Machine Learning  |        Universitas Padjadjaran     | [Github](https://github.com/graciajoanne)          |
-|          Disa Rahma Kirana         | M011D4KX1763 |  Machine Learning  |        Universitas Padjadjaran     | [Github](https://github.com/dissarahma)            |
-|    Gloria Natasya Irene Sidebang   | M012D4KX3005 |  Machine Learning  |          Universitas Telkom        | [Github](https://github.com/glorianatasyaaa)       |
-
+|          Name          | Bangkit ID  |        Role        |                     University                      |                  Github                   |
+| :--------------------: | :---------: | :----------------: | :-------------------------------------------------: | :---------------------------------------: |
+|  Velman Noeli Harefa  | C012D4KY1040 |  Cloud Computing   |            Universitas Telkom            |   [Github](https://github.com/velmanharefa)   |
+| Benaya Obed Sinaga  | C012D4KY1058 |  Cloud Computing   |                 Universitas Telkom                  |   [Github](https://github.com/BenayaObed)    |
+|  Salman Al Faridzi   | A452D4KY4558 | Mobile Development |            Universitas Muhammadiyah Jakarta             |   [Github](https://github.com/salmanafl)   |
+|      Femmy Friscilla Susilo      | A243D4KX3588 | Mobile Development |         Universitas Kristen Maranatha         | [Github](https://github.com/2172030femmyfriscilla)  |
+|  Gracia Joanne Crissan Br Hutabarat   | M011D4KX1774 |  Machine Learning  | Universitas Padjadjaran | [Github](https://github.com/graciajoanne) |
+| Disa Rahma Kirana | M011D4KX1763 |  Machine Learning  |                Universitas Padjadjaran                | [Github](https://github.com/dissarahma) |
+|     Gloria Natasya Irene Sidebang      | M012D4KX3005 |  Machine Learning  |                Universitas Telkom                |   [Github](https://github.com/glorianatasyaaa)    |
 
 At FinSafe, we believe that financial well-being is within everyone's reach. 
 Together, let's make your financial dreams a reality 🚀
@@ -37,4 +36,3 @@ Together, let's make your financial dreams a reality 🚀
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-

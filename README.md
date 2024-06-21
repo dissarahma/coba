@@ -5,7 +5,7 @@ This is a repository Capstone Project Bangkit Academy 2024 Batch 1 with Team ID 
 ## Our Profile
 
 <div align="center">
-<img src="https://drive.google.com/file/d/1gqMGCUlVSmOyy-auUOZjENNgqXUwK8Ll/view?usp=sharing" >  
+<img src="https://github.com/dissarahma/coba/blob/main/vbg%20finsafe.jpg" >  
 </div> <br>
 
 **FinSafe: Budget Better, Live Brighter**. FinSafe is a user-friendly app that simplifies financial planning, expense tracking, and helps users reach their financial goals more effectively. This household financial management app is suitable for people who want to manage their finances efficiently. Users input their income and expenses data, as well as information about future payment plans. The app will monitor spending trends, provide predictions about future installment capabilities, and recommend suitable financial arrangements. So, you know whether your finances are on a healthy track, whether you can meet future payments, and how you can better manage your finances to achieve your financial goals.
